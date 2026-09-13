@@ -16,3 +16,7 @@ Start the game in Compy with:
 ```lua
 run("snake")
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
