@@ -17,6 +17,10 @@ Start the game in Compy with:
 run("snake")
 ```
 
+## Author
+
+We're grateful to Ágnes Kardos, who wrote Snake and donated it to Compy project.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
